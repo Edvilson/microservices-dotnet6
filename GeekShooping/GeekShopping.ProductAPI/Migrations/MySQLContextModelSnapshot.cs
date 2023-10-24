@@ -43,7 +43,7 @@ namespace GeekShopping.ProductAPI.Migrations
                         .HasColumnType("varchar(300)")
                         .HasColumnName("image_url");
 
-                    b.Property<string>("Nome")
+                    b.Property<string>("Name")
                         .IsRequired()
                         .HasMaxLength(150)
                         .HasColumnType("varchar(150)")
@@ -64,7 +64,7 @@ namespace GeekShopping.ProductAPI.Migrations
                             CategoryName = "T-Shirt",
                             Description = "Description",
                             ImageUrl = "https://github.com/Edvilson/microservices-dotnet6/blob/main/GeekShooping/ShoppingImages/6_spacex.jpg",
-                            Nome = "Name2",
+                            Name = "Name2",
                             Price = 79.9m
                         },
                         new
@@ -73,7 +73,7 @@ namespace GeekShopping.ProductAPI.Migrations
                             CategoryName = "Action figure",
                             Description = "Description3",
                             ImageUrl = "https://github.com/Edvilson/microservices-dotnet6/blob/main/GeekShooping/ShoppingImages/6_spacex.jpg",
-                            Nome = "Name3",
+                            Name = "Name3",
                             Price = 999.9m
                         },
                         new
@@ -82,7 +82,7 @@ namespace GeekShopping.ProductAPI.Migrations
                             CategoryName = "Picture",
                             Description = "Description4",
                             ImageUrl = "https://github.com/Edvilson/microservices-dotnet6/blob/main/GeekShooping/ShoppingImages/6_spacex.jpg",
-                            Nome = "Name4",
+                            Name = "Name4",
                             Price = 99.9m
                         },
                         new
@@ -91,7 +91,7 @@ namespace GeekShopping.ProductAPI.Migrations
                             CategoryName = "T-Shirt",
                             Description = "Description5",
                             ImageUrl = "https://github.com/Edvilson/microservices-dotnet6/blob/main/GeekShooping/ShoppingImages/6_spacex.jpg",
-                            Nome = "Name5",
+                            Name = "Name5",
                             Price = 79.25m
                         },
                         new
@@ -100,7 +100,7 @@ namespace GeekShopping.ProductAPI.Migrations
                             CategoryName = "Pants",
                             Description = "Description6",
                             ImageUrl = "https://github.com/Edvilson/microservices-dotnet6/blob/main/GeekShooping/ShoppingImages/6_spacex.jpg",
-                            Nome = "Name6",
+                            Name = "Name6",
                             Price = 129.9m
                         });
                 });
