@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{A5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekShopping.ProductAPI", "GeekShopping.ProductAPI\GeekShopping.ProductAPI.csproj", "{220436E9-B844-4466-B12E-3283690FD135}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.Web", "GeekShopping.Web\GeekShopping.Web.csproj", "{9D392F4A-01A9-4F32-BCEC-CD58C84B2180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekShopping.Web", "GeekShopping.Web\GeekShopping.Web.csproj", "{9D392F4A-01A9-4F32-BCEC-CD58C84B2180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.IdentityServer", "GeekShopping.IdentityServer\GeekShopping.IdentityServer.csproj", "{E391EE8C-2424-4C6B-AEB9-EC2DB4AC295A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{9D392F4A-01A9-4F32-BCEC-CD58C84B2180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D392F4A-01A9-4F32-BCEC-CD58C84B2180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D392F4A-01A9-4F32-BCEC-CD58C84B2180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E391EE8C-2424-4C6B-AEB9-EC2DB4AC295A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E391EE8C-2424-4C6B-AEB9-EC2DB4AC295A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E391EE8C-2424-4C6B-AEB9-EC2DB4AC295A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E391EE8C-2424-4C6B-AEB9-EC2DB4AC295A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{220436E9-B844-4466-B12E-3283690FD135} = {A51BBE1D-28C6-4DC3-84C2-FB2338B2378D}
 		{9D392F4A-01A9-4F32-BCEC-CD58C84B2180} = {D5EA0D5E-EC24-4661-9662-BA7470427703}
+		{E391EE8C-2424-4C6B-AEB9-EC2DB4AC295A} = {A51BBE1D-28C6-4DC3-84C2-FB2338B2378D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C8EBDC48-E410-4526-9077-7321C92E7FA3}
