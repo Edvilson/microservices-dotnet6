@@ -15,7 +15,6 @@ namespace GeekShopping.ProductAPI
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            IConfiguration Configuration;
 
             var connection = builder.Configuration["MySQlConnection:MySQlConnectionString"];
 
@@ -44,6 +43,7 @@ namespace GeekShopping.ProductAPI
                 app.UseSwaggerUI();
             }
 
+            app.UseHttpsRedirection();
             app.UseAuthorization();
 
 
