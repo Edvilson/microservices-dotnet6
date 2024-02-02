@@ -55,3 +55,12 @@ D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.Text.Json.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.sourcelink.json
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
