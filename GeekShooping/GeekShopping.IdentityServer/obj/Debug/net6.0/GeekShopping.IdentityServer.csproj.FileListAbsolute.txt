@@ -1,13 +1,3 @@
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.csproj.AssemblyReference.cache
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.AssemblyInfoInputs.cache
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.AssemblyInfo.cs
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.csproj.CoreCompileInputs.cache
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cache
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cs
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.sourcelink.json
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.Development.json
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.json
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.staticwebassets.runtime.json
@@ -307,7 +297,6 @@ D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\D
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Humanizer.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\IdentityModel.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -322,7 +311,6 @@ D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\D
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
@@ -364,6 +352,16 @@ D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\D
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.csproj.AssemblyReference.cache
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.AssemblyInfoInputs.cache
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.AssemblyInfo.cs
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.csproj.CoreCompileInputs.cache
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cache
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cs
+D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.sourcelink.json
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\staticwebassets.build.json
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\staticwebassets.development.json
 D:\Projetos\microservices-dotnet6\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props
