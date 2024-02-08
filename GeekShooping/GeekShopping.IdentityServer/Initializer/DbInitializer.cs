@@ -33,7 +33,7 @@ namespace GeekShopping.IdentityServer.Initializer
             ApplicationUser admin = new ApplicationUser()
             {
                 UserName = "edvilson-admin",
-                Email = "edvilson-admin@gmail.com",
+                Email = "edvilson-admin@erudio.com.br",
                 EmailConfirmed = true,
                 PhoneNumber = "+55 (34) 12345-6789",
                 FirstName = "Edvilson",
@@ -54,7 +54,7 @@ namespace GeekShopping.IdentityServer.Initializer
             ApplicationUser client = new ApplicationUser()
             {
                 UserName = "edvilson-client",
-                Email = "edvilson-client@gmail.com",
+                Email = "edvilson-client@erudio.com.br",
                 EmailConfirmed = true,
                 PhoneNumber = "+55 (34) 12345-6789",
                 FirstName = "Edvilson",

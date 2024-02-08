@@ -1,10 +1,14 @@
 ﻿using Duende.IdentityServer.Extensions;
 using Duende.IdentityServer.Models;
 using Duende.IdentityServer.Services;
-using GeekShopping.IdentityServer.Model.Context;
+using GeekShopping.IdentityServer.Model;
 using IdentityModel;
 using Microsoft.AspNetCore.Identity;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Security.Claims;
+using System.Threading.Tasks;
 
 namespace GeekShopping.IdentityServer.Services
 {

@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GeekShopping.IdentityServer.bundle.scp.css",
-      "PackagePath": "staticwebassets\\GeekShopping.IdentityServer.bundle.scp.css"
-    },
-    {
       "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -49,26 +45,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css"
     },
     {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
-      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
-      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
-      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
-      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
-    },
-    {
       "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css"
     },
@@ -105,22 +81,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
       "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
@@ -135,54 +95,6 @@
     {
       "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
       "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -201,22 +113,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
       "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
@@ -231,22 +127,6 @@
     {
       "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
       "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
@@ -271,10 +151,6 @@
     {
       "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
       "Id": "D:\\Projetos\\microservices-dotnet6\\GeekShooping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
